@@ -1,2 +1,2 @@
 # BESS
-an Engineering Equation solver. B for bagsak(jk :p)
+This is inspired from the Engineering approach: Thermodynamics book. I just attempt to create the same output as theirs :D
